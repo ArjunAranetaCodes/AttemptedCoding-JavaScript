@@ -9,7 +9,7 @@ As JavaScript developers, we often underestimate the power of choosing meaningfu
 ## Example Code Snippet
 Here's an example of how a simple variable name change can improve the readability of your JavaScript code:
 
-```
+```javascript
 // Bad
 let x = 5;
 let y = 10;
