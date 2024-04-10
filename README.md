@@ -4,6 +4,8 @@ Let's learn JavaScript through lessons, tips and tricks.
 
 ## JavaScript Best Practices
 [Importance of Meaningful Variable Names in JavaScript](javascript-best-practices/01-meaningful-Variable-Names.md)
+<br/>
+
 [Avoiding the Pitfalls of Global Variables](javascript-best-practices/02-Avoiding-Global-Variables.md)
 [Stick to a Strict Coding Style in JavaScript](javascript-best-practices/03-Sticking-to-a-Strict-Coding-Style.md)
 [The Power of JavaScript Comments](javascript-best-practices/04-Role-of-Comments-in-Code.md)
